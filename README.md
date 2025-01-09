@@ -66,7 +66,7 @@ Bonus Points:
 ● Incorporating dark mode for the dashboard.
 ● Ensuring high Lighthouse scores for performance, accessibility, and SEO.
 
-Working on pages by building each individuals Apis as per time we have
+# Working on pages by building each individuals Apis as per time we have
 
 <img width="1440" alt="Screenshot 2025-01-09 at 11 50 44 AM" src="https://github.com/user-attachments/assets/ea0f6d0e-d112-4475-9ad4-8f12912a00d4" />
 <img width="1439" alt="Screenshot 2025-01-09 at 11 50 58 AM" src="https://github.com/user-attachments/assets/6d76c3e1-51a6-4bf2-abed-c57d477ba345" />
